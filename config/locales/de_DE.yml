@@ -36,7 +36,7 @@ de_DE:
         enabled: Aktiviert
         info: Nur authentifizierte Nutzer dürfen diesen Raum betreten
         title: Betreten des Raums erfordert Authentifizierung
-        user-info: "Sie müssen in Greenlight eingeloggt sein, um diesen Raum zu betreten"
+        user-info: "Sie müssen in UlmLernt eingeloggt sein, um diesen Raum zu betreten"
       branding:
         change: Bild ändern
         info: Das in der linken oberen Ecke dargestellte Markenlogo ändern
@@ -83,7 +83,7 @@ de_DE:
       shared_access:
         info: "Wenn diese Option deaktiviert wird, wird dadurch der Button aus den Raumoptionen entfernt und verhindert, dass Nutzer Räume teilen können"
         title: Nutzern erlauben Räume zu teilen
-      subtitle: Greenlight individuell anpassen
+      subtitle: UlmLernt individuell anpassen
       title: Seiteneinstellungen
     flash:
       approved: Teilnehmer wurde erfolgreich genehmigt
@@ -161,7 +161,7 @@ de_DE:
         username: Teilnehmername
       title: Teilnehmer verwalten
   add_to_google_calendar: "Zum Google Kalender hinzufügen"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: UlmLernt
   bigbluebutton_exception: "Ups, beim Start der Konferenz ist ein Fehler aufgetreten!"
   cancel: Abbrechen
   cookies:
@@ -194,9 +194,9 @@ de_DE:
       contact_admin: "Wenn Sie kein Administrator sind, kontaktieren Sie bitte einen."
       continue: Ich möchte bleiben und 1.0 verwenden.
       notice: >
-        Greenlight hat einen Datenbankmigrationsfehler bemerkt.<br> Dies kann auftreten, weil Sie noch nicht auf Greenlight 2.0. upgedatet haben.
+        UlmLernt hat einen Datenbankmigrationsfehler bemerkt.<br> Dies kann auftreten, weil Sie noch nicht auf UlmLernt 2.0. upgedatet haben.
       upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
-      version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+      version: "Wir haben eine neue Version von UlmLernt veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
     messages:
       blank: kann nicht leer sein
       too_short: ist zu kurz
@@ -207,7 +207,7 @@ de_DE:
       inclusion: ist nicht Teil der Liste
     no_provider:
       message: "Die Seite, auf die Sie versuchen zuzugreifen, ist nicht aktiviert."
-      help: "Bitte kontaktieren Sie Ihren Systemadministrator, damit er Greenlight einrichtet."
+      help: "Bitte kontaktieren Sie Ihren Systemadministrator, damit er UlmLernt einrichtet."
     not_found:
       message: Tut uns leid! Die aufgerufene Seite existiert nicht.
       help: "Ist es möglich, dass es entfernt wurde?"
@@ -259,11 +259,11 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "UlmLernt verwendet %{href} als einfachen Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
+    welcome: Willkommen zu UlmLernt.
+    video: Schauen Sie sich die offiziellen Anleitung zur Verwendung von Greenlight an.
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
-    version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+    version: "Wir haben eine neue Version von UlmLernt veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen
@@ -275,10 +275,10 @@ de_DE:
         signin: "Um auf Ihre persönlichen Räume zuzugreifen, klicken Sie bitte auf den unten stehenden Button und loggen Sie sich ein. "
         signin_link: Einloggen
         signup:
-          info: Ein neuer Nutzer hat sich bei Greenlight angemeldet.
-          more-info: "Um diesem Nutzer Zugriff auf Greenlight zu geben, müssen Sie sein Konto in den Organisationseinstellungen genehmigen."
+          info: Ein neuer Nutzer hat sich bei UlmLernt angemeldet.
+          more-info: "Um diesem Nutzer Zugriff auf UlmLernt zu geben, müssen Sie sein Konto in den Organisationseinstellungen genehmigen."
           admins_link: Organisationsseite besuchen
-          subject: Neue Greenlight Nutzerregistrierung
+          subject: Neue UlmLernt Nutzerregistrierung
           username: "Der Nutzer hat sich mit dem Namen %{name} und der Email %{email} registriert."
         subject: Konto genehmigt
         username: "Ihr Nutzername ist %{email}."
@@ -292,9 +292,9 @@ de_DE:
         signup_info: "Um sich mit Ihrer Email anzumelden, klicken Sie den untenstehenden Button und folgen Sie den Schritten."
         signup_link: Registrieren
         signup:
-          info: Ein eingeladener Nutzer hat sich bei Greenlight registriert.
+          info: Ein eingeladener Nutzer hat sich bei UlmLernt registriert.
           admins_link: Organisationsseite besuchen
-          subject: Registrierung neuer Greenlight-Nutzer
+          subject: Registrierung neuer UlmLernt-Nutzer
           username: "Der Nutzer hat sich mit dem Namen %{name} und der Email %{email} registriert."
         subject: Einladung zur BigBlueButton-Teilnahme
         username: "Ihr Nutzername ist %{email}."
