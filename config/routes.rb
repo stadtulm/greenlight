@@ -26,6 +26,7 @@ Rails.application.routes.draw do
   
   # ulmlernt specifics
   get '/impressum', to: 'main#impressum'
+  get '/datenschutz', to: 'main#datenschutz'
 
   # Signin/Signup routes.
   get '/signin', to: 'sessions#signin', as: :signin
